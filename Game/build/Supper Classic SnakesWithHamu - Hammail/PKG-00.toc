@@ -1,0 +1,72 @@
+('D:\\Python files\\Snake Game\\Game Source Code\\build\\Supper Classic '
+ 'SnakesWithHamu - Hammail\\Supper Classic SnakesWithHamu - Hammail.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\Python files\\Snake Game\\Game Source Code\\build\\Supper Classic '
+   'SnakesWithHamu - Hammail\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Python files\\Snake Game\\Game Source Code\\build\\Supper Classic '
+   'SnakesWithHamu - Hammail\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Python files\\Snake Game\\Game Source Code\\build\\Supper Classic '
+   'SnakesWithHamu - Hammail\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Python files\\Snake Game\\Game Source Code\\build\\Supper Classic '
+   'SnakesWithHamu - Hammail\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Python files\\Snake Game\\Game Source Code\\build\\Supper Classic '
+   'SnakesWithHamu - Hammail\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Python files\\Snake Game\\Game Source Code\\build\\Supper Classic '
+   'SnakesWithHamu - Hammail\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Hammail '
+   'Riaz\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Hammail '
+   'Riaz\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Hammail '
+   'Riaz\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\Hammail '
+   'Riaz\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Hammail '
+   'Riaz\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Hammail '
+   'Riaz\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('Supper Classic SnakesWithHamu - Hammail',
+   'D:\\Python files\\Snake Game\\Game Source Code\\Supper Classic '
+   'SnakesWithHamu - Hammail.pyw',
+   'PYSOURCE')],
+ 'python313.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
